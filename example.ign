@@ -1,0 +1,15 @@
+{
+  "ignition": {
+    "version": "3.3.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "scrumble",
+        "sshAuthorizedKeys": [
+          "AAAAB3NzaC1yc2EAAAADAQABAAABgQDCwDcxUxpeENeUpR0VtYVVNHQYsb59b5zUR51bny9WVvmtQjpZEVqIBhSy9Va5VSsI98SI7NEb5dj0NXHGLuWYg+DkJ9rmrYrVa1/PvGk0q0KqioFKC/KA2MdgKNqPNOjmG27CxOQbIqhvCLU+VOLLI0LA3QqXUKkfTxo0PwQQViIKpaPqEYM5qGMxbuqLBS7/5XkAZ6cwCMIcVcC+wpwv+v5nWePOHLyCxJFqExhk/4hOz8TRa+/Csp1vVknZbQ66yolMqSoOJnh0Q/GyqS79/hmvVlamPAI+I9jNdx/LROqwrKZjYFpdhVKW7wA7bFbD+/t7RPoE8RQ2+iHQk+JSv8oQPr/aKwSrG1a5TfK3Z/63ns0oG5aXn+5BIjG7hVdKWF4aGXjW7IYs4MccDrGOZ8uIsRUabyNU6CHx/BFLCs6x86354MNo4kpUAzWbPMTP0cKfu0lAqrdQ/94ZK6jE5yKAEQhQ2LmUPm76XOkaAJ4Oe6Z7h52fEOTvEfSN3pk= pauloalexandredinizmatossilva@MacBook-Pro-de-Paulo.local"
+        ]
+      }
+    ]
+  }
+}
